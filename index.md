@@ -7,7 +7,11 @@ layout: default
 
 This document explains the responsibilities of academics, school administrators and library staff in the NECTAR deposit workflow.
 
+The basic NECTAR workflow starts with the academic author and progresses through the school administrator and library team before an item is made live:
+
 <img id="workflow-img" src="images/workflow.png" alt="The NECTAR workflow" />
+
+<small>(The model is slightly different for staff in the School of Health - see below for details.)</small>
 
 ## Academic Staff
 
