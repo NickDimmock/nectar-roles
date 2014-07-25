@@ -9,11 +9,17 @@ layout: default
 
 Academic staff should submit their research outputs to NECTAR where they meet the requirements laid out in the [NECTAR FAQs](http://nectar.northampton.ac.uk/information.html#can_i).
 
+Adding a new item requires a correctly configured NECTAR account. First-time users can email [nectar@northampton.ac.uk](mailto:nectar@northampton.ac.uk) to ensure their account is ready to use.
+
 Items may be added manually using the New Item button or imported from several formats (e.g. DOI import for electronic journal articles).
 
 Guildines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself.
 
 Academics should ensure that the correct formatting is used as per these sources, to minimise delays in processing submissions.
+
+### School of Health
+
+School of Health staff should pass details of their items to the school NECTAR administrator, who is responsible for adding all School of Health outputs. Administrator contact details can be found in the [NECTAR FAQs](http://nectar.northampton.ac.uk/information.html#other_research).
 
 ## School Administrators
 
