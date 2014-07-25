@@ -26,8 +26,9 @@ Guidelines for adding items can be found on the [Help with NECTAR](http://nectar
 To minimise delays in checking and processing submissions, academics should:
 
 - Enter all available information for the item
-- Ensure that correct formatting is used as per the guidelines
+- Ensure that correct formatting is used, as per the [guidelines](http://nectar.northampton.ac.uk/help)
 - Enter items in a timely fashion (to ensure items appear in quarterly and yearly school research reports)
+- Attach an appropriate full-text version of an item [where permitted](http://nectar.northampton.ac.uk/information.html#copyright)
 
 ### School of Health
 
@@ -37,10 +38,11 @@ School of Health staff should pass details of their items to the school NECTAR a
 
 When an item is deposited by an academic it passes to the relevant school administrator, who will:
 
-- Check that the item meets NECTAR requirements (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i))
+- Verify that the item meets NECTAR criteria (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i))
 - Check that NECTAR formatting guidelines have been followed and amend the item where required
-- Check for spelling errors
-- Verify that any links are working and go to the correct destination
+- Check for and correct spelling errors
+- Verify that any web links are working and go to the correct destination
+- Ensure that the visibility of any uploaded files is set to 'Repository staff only'
  
 The administrator may return an item if there are numerous or significant problems. The depositing author will receive an email with the item details and the administrator's comments, and the item will return to the author's User Workarea in NECTAR. Returned items can be amended and re-deposited.
 
@@ -53,7 +55,7 @@ When a school administrator verifies that an item has been checked it passes to 
 - Check the final public appearance of the item 
 - Make the item live on NECTAR at the end of this process
 
-The bibliographics team have the option of returning items to either the school administrator or the depositing author where there is sufficient concern.
+The bibliographics team have the option of returning items to either the school administrator or the depositing author if there are significant problems. The NECTAR team will contact academics or administrators to resolve issues wherever possible.
 
 ## NECTAR Team
 
