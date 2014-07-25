@@ -16,6 +16,12 @@ a {
 a:hover {
 	color: #B24926;
 }
-#header {
-	margin: 2% 8% 1em 8%;
+#footer {
+	margin-top: 2em;
+	font-size: 80%;
+	text-align: right;
+	color: #666;
+}
+#footer a, #footer a:visited {
+	color: #666;
 }
