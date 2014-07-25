@@ -23,10 +23,9 @@ School of Health staff should pass details of their items to the school NECTAR a
 
 ## School Administrators
 
-When an item is deposited by an academic it passes to the relevant school admnistrator, who will:
+When an item is deposited by an academic it passes to the relevant school administrator, who will:
 
-- Check that the item meets NECTAR requirements (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i).
-)
+- Check that the item meets NECTAR requirements (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i))
 - Check that NECTAR formatting guidelines have been followed and amend the item where required
 - Check for spelling errors
 - Verify that any links are working and go to the correct destination
@@ -46,8 +45,8 @@ The bibliographics team have the option of returning items to either the school 
 
 ## NECTAR Team
 
-The NECTAR team within LLS will:
+For submissions that include full-text or supporting document uploads, the NECTAR team within LLS will:
 
-- Review uploaded full-text and supporting documents to ensure institutional repository deposit is permitted
+- Review uploaded documents to ensure institutional repository deposit is permitted
 - Convert each document to PDF and add a standard coversheet with item and citation details and any content required by the publisher
 - Make uploads live and discoverable follwing this process

@@ -10,14 +10,16 @@ h2 {
 	
 	border-bottom: 2px solid #aaa;
 }
-a {
+a, a:visited {
 	color: #0755c1;
 }
-a:hover {
+a:hover, #footer a:hover {
 	color: #B24926;
 }
 #footer {
 	margin-top: 2em;
+	padding-top: 2em;
+	border-top: 2px solid #aaa;
 	font-size: 80%;
 	text-align: right;
 	color: #666;
@@ -25,3 +27,4 @@ a:hover {
 #footer a, #footer a:visited {
 	color: #666;
 }
+
