@@ -23,7 +23,7 @@ Items may be added manually using the New Item button or imported from several f
 
 Guidelines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself.
 
-To minimise delays in checking and processing submissions , academics should:
+To minimise delays in checking and processing submissions, academics should:
 
 - Enter all available information for the item
 - Ensure that correct formatting is used as per the guidelines
