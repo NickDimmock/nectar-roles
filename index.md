@@ -21,9 +21,9 @@ Adding a new item requires a correctly configured NECTAR account. First-time use
 
 Items may be added manually using the New Item button or imported from several formats (e.g. DOI import for electronic journal articles).
 
-Guildines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself.
+Guidelines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself.
 
-Academics should ensure that the correct formatting is used as per these sources, to minimise delays in processing submissions.
+Academics should ensure that all available information is entered and correct formatting is used as per the guidelines. This will minimise delays in checking and processing submissions.
 
 ### School of Health
 
@@ -57,4 +57,4 @@ For submissions that include full-text or supporting document uploads, the NECTA
 
 - Review uploaded documents to ensure institutional repository deposit is permitted
 - Convert each document to PDF and add a standard coversheet with item and citation details and any content required by the publisher
-- Make uploads live and discoverable follwing this process
+- Make uploads live and discoverable following this process
