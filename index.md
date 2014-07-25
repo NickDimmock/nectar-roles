@@ -3,7 +3,9 @@ title: NECTAR roles and responsibilities
 layout: default
 ---
 
-# NECTAR Roles and Responsibilities
+# NECTAR: Roles and Responsibilities
+
+This document explains the responsibilities of academics, school administrators and library staff in the NECTAR deposit workflow.
 
 ## Academic Staff
 
