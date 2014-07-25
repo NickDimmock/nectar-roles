@@ -11,7 +11,9 @@ h1, h2 {
 	color: #DF4949;
 	margin-bottom: 1em;
 }
-
+li {
+	margin-bottom: .5em;
+}
 a, a:visited {
 	color: #0755c1;
 }
