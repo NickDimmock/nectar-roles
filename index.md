@@ -7,6 +7,8 @@ layout: default
 
 This document explains the responsibilities of academics, school administrators and library staff in the NECTAR deposit workflow.
 
+<img id="workflow-img" src="images/workflow.png" alt="The NECTAR workflow" />
+
 ## Academic Staff
 
 Academic staff should submit their research outputs to NECTAR where they meet the requirements laid out in the [NECTAR FAQs](http://nectar.northampton.ac.uk/information.html#can_i).
