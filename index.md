@@ -1,5 +1,6 @@
 ---
 title: NECTAR roles and responsibilities
+layout: default
 ---
 # NECTAR Roles and Responsibilities
 
