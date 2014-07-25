@@ -9,9 +9,9 @@ body {
 	padding: 1em 1.5em;
 	margin: 5% 10%;
 	background: #fff;
-	-moz-box-shadow: 5px 5px 1px 0px #ccc
-	-webkit-box-shadow: 5px 5px 1px 0px #ccc
-	box-shadow: 5px 5px 1px 0px #ccc
+	-moz-box-shadow: 5px 5px 1px 0px #ccc;
+	-webkit-box-shadow: 5px 5px 1px 0px #ccc;
+	box-shadow: 5px 5px 1px 0px #ccc;
 }
 h1 {
 	text-align: center;
