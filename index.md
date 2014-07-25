@@ -58,3 +58,5 @@ For submissions that include full-text or supporting document uploads, the NECTA
 - Review uploaded documents to ensure institutional repository deposit is permitted
 - Convert each document to PDF and add a standard coversheet with item and citation details and any content required by the publisher
 - Make uploads live and discoverable following this process
+
+The NECTAR team are also a point of contact if you have any questions or problems regarding the deposit process. The team can be contacted at [nectar@northampton.ac.uk](mailto:nectar@northampton.ac.uk).
