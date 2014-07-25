@@ -1,3 +1,6 @@
+---
+title: NECTAR roles and responsibilities
+---
 # NECTAR Roles and Responsibilities
 
 ## Academic Staff
