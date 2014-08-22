@@ -39,7 +39,7 @@ School of Health staff should pass details of their items to the school NECTAR a
 When an item is deposited by an academic it passes to the relevant school administrator, who will:
 
 - Verify that the item meets NECTAR criteria (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i)).
-- Check that NECTAR formatting guidelines have been followed and amend the item where required.
+- Check that NECTAR [formatting guidelines](http://nectar.northampton.ac.uk/help/) have been followed and amend details where required.
 - Check for and correct spelling errors.
 - Verify that any web links are working and go to the correct destination.
 - Ensure that the visibility of any uploaded files is set to **Repository staff only**.
