@@ -19,16 +19,16 @@ Academic staff should submit their research outputs to NECTAR where they meet th
 
 Adding a new item requires a correctly configured NECTAR account. First-time users can email [nectar@northampton.ac.uk](mailto:nectar@northampton.ac.uk) to ensure their account is ready to use.
 
-Items may be added manually using the New Item button or imported from several formats (e.g. DOI import for electronic journal articles).
+Having logged in to [NECTAR](http://nectar.northampton.ac.uk), items may be added manually using the New Item button or imported from several formats (e.g. DOI import for electronic journal articles).
 
 Guidelines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself.
 
 To minimise delays in checking and processing submissions, academics should:
 
-- Enter all available information for the item
-- Ensure that correct formatting is used, as per the [guidelines](http://nectar.northampton.ac.uk/help)
-- Enter items in a timely fashion (to ensure items appear in quarterly and yearly school research reports)
-- Attach an appropriate full-text version of an item [where permitted](http://nectar.northampton.ac.uk/information.html#copyright)
+- Enter all available information for the item.
+- Ensure that correct formatting is used, as per the [guidelines](http://nectar.northampton.ac.uk/help).
+- Enter items in a timely fashion (to ensure items appear in quarterly and yearly school research reports).
+- Attach an appropriate full-text version of an item [where permitted](http://nectar.northampton.ac.uk/information.html#copyright).
 
 ### School of Health
 
@@ -38,11 +38,12 @@ School of Health staff should pass details of their items to the school NECTAR a
 
 When an item is deposited by an academic it passes to the relevant school administrator, who will:
 
-- Verify that the item meets NECTAR criteria (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i))
-- Check that NECTAR formatting guidelines have been followed and amend the item where required
-- Check for and correct spelling errors
-- Verify that any web links are working and go to the correct destination
-- Ensure that the visibility of any uploaded files is set to 'Repository staff only'
+- Verify that the item meets NECTAR criteria (as per the [FAQ](http://nectar.northampton.ac.uk/information.html#can_i)).
+- Check that NECTAR formatting guidelines have been followed and amend the item where required.
+- Check for and correct spelling errors.
+- Verify that any web links are working and go to the correct destination.
+- Ensure that the visibility of any uploaded files is set to **Repository staff only**.
+- Confirm that checking is complete by ticking the **Checked by School NECTAR Administrator** box at the top of the Details form.
  
 The administrator may return an item if there are numerous or significant problems. The depositing author will receive an email with the item details and the administrator's comments, and the item will return to the author's User Workarea in NECTAR. Returned items can be amended and re-deposited.
 
@@ -50,10 +51,10 @@ The administrator may return an item if there are numerous or significant proble
 
 When a school administrator verifies that an item has been checked it passes to the bibliographics team within LLS, who will:
 
-- Check the item metadata to professional standards
-- Add Library of Congress classification data
-- Check the final public appearance of the item 
-- Make the item live on NECTAR at the end of this process
+- Check the item metadata to professional standards.
+- Add Library of Congress classification data.
+- Check the final public appearance of the item .
+- Make the item live on NECTAR at the end of this process.
 
 The bibliographics team have the option of returning items to either the school administrator or the depositing author if there are significant problems. The NECTAR team will contact academics or administrators to resolve issues wherever possible.
 
@@ -61,8 +62,8 @@ The bibliographics team have the option of returning items to either the school 
 
 For submissions that include full-text or supporting document uploads, the NECTAR team within LLS will:
 
-- Review uploaded documents to ensure institutional repository deposit is permitted
-- Convert each document to PDF and add a standard coversheet with item and citation details and any content required by the publisher
-- Make uploads live and discoverable following this process
+- Review uploaded documents to ensure institutional repository deposit is permitted.
+- Convert each document to PDF and add a standard coversheet with item and citation details and any content required by the publisher.
+- Make uploads live and discoverable following this process.
 
 The NECTAR team are also a point of contact if you have any questions or problems regarding the deposit process. The team can be contacted at [nectar@northampton.ac.uk](mailto:nectar@northampton.ac.uk).
