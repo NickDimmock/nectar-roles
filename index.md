@@ -21,7 +21,7 @@ Adding a new item requires a correctly configured NECTAR account. First-time use
 
 Having logged in to [NECTAR](http://nectar.northampton.ac.uk), items may be added manually using the New Item button or imported from several formats (e.g. DOI import for electronic journal articles).
 
-Guidelines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself.
+Guidelines for adding items can be found on the [Help with NECTAR](http://nectar.northampton.ac.uk/help) pages and in the help sections of the deposit form itself - help for the most commonly used fields is shown by default, and other fields have help text that can be viewed by clicking the question mark icon next to the field title.
 
 To minimise delays in checking and processing submissions, academics should:
 
